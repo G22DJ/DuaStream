@@ -1,0 +1,6 @@
+{
+  "name": "Screen Share & Game Chat",
+  "description": "Multi-screen sharing, ultra-low latency game streaming, text/voice channels, direct private chat, and real-time friend requests.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
